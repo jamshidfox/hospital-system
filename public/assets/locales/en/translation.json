@@ -1,0 +1,17 @@
+{
+  "nav_movie": "Movies",
+  "nav_tv_shows": "Tv Shows",
+  "nav_megogo": "Megogo",
+  "nav_amediateka": "Amediateka",
+  "nav_uzbLng": "Uzbek Films",
+  "landingP_greeting": "Welcome.",
+  "landingP_info": "Millions of movies, TV shows and people to discover. Explore now.",
+  "landingP_PopularHeadline": "What's Popular",
+  "landingP_TopRatedHeadline": "Top Rated",
+  "landingP_TrendingHeadline": "Trending",
+  "welome_message": "Welcome to my Project",
+  "days_since_release": "It's been {{number_of_days}} days since this vedio was released",
+  "fantasy_movies_title": "Fantasy Movies",
+  "drama_movies_title": "Drama Movies",
+  "horror_movies_title": "Horror Movies"
+}

@@ -1,0 +1,17 @@
+{
+  "nav_movie": "Кино",
+  "nav_tv_shows": "ТВ шоу",
+  "nav_megogo": "Мегого",
+  "nav_amediateka": "Амедиатека",
+  "nav_uzbLng": "Узбекские фильмы",
+  "landingP_greeting": "Добро пожаловать.",
+  "landingP_info": "Миллионы фильмов, телешоу и людей, которых нужно открыть. Исследуйте сейчас.",
+  "landingP_PopularHeadline": "Что популярно",
+  "landingP_TopRatedHeadline": "Самые популярные",
+  "landingP_TrendingHeadline": "В тренде",
+  "welome_message": "Добро пожаловать в мой Проэкт",
+  "days_since_release": "Прошло {{number_of_days}} дней с момента выхода этого видео",
+  "fantasy_movies_title": "Фантастика",
+  "drama_movies_title": "Драматические фильмы",
+  "horror_movies_title": "Фильмы ужасов"
+}

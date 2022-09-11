@@ -1,0 +1,17 @@
+{
+  "nav_movie": "Kino",
+  "nav_tv_shows": "Teleko'rsatuvlar",
+  "nav_megogo": "Megogo",
+  "nav_amediateka": "Amediateka",
+  "nav_uzbLng": "Uzbek Tilida",
+  "landingP_greeting": "Xush kelibsiz.",
+  "landingP_info": "Millionlab filmlar, teleko'rsatuvlar va kashf qilinadigan odamlar. Hozir oʻrganing.",
+  "landingP_PopularHeadline": "Nima mashhur",
+  "landingP_TopRatedHeadline": "Eng yuqori baholi",
+  "landingP_TrendingHeadline": "Trend",
+  "welome_message": "Mening Proyektimga Hush Kelibsiz",
+  "days_since_release": "Bu video chiqganiga {{number_of_days}} kun bo'ldi",
+  "fantasy_movies_title": "Fantastik filmlar",
+  "drama_movies_title": "Drama filmlar",
+  "horror_movies_title": "Qo'rqinchli filmlar"
+}
