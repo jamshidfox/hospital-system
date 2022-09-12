@@ -13,14 +13,15 @@ const Container = styled('div')`
 `
 
 const App = ({ routes, store }) => {
+  console.log(routes)
   return (
     <Provider store={store}>
       <Container>
-        <Helmet>
+        {/* <Helmet>
           <meta charSet="utf-8" />
           <title>Hospital System</title>
           <link rel="canonical" href="http://mysite.com/example" />
-        </Helmet>
+        </Helmet> */}
         <RoutesWithSubRoutes routes={routes} />
         <ToastContainer />
       </Container>

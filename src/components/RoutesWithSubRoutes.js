@@ -19,7 +19,7 @@ const RouteWithSupRoutes = ({ routes }) => {
   const tokenExists = getCookie('token')
   return (
     <Container>
-      {!tokenExists && <Navigate to="/login" replace={true} />}
+      {/* {!tokenExists && <Navigate to="/login" replace={true} />} */}
       <Routes>
         {routes.map((route, index) => (
           <Route

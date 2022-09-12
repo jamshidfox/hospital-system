@@ -1,6 +1,5 @@
 {
-  "homepage": "https://jamshidfox.github.io/jk-tv",
-  "name": "jk-tv",
+  "name": "hospital-system",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
